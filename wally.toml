@@ -1,0 +1,11 @@
+[package]
+name = "kryisnn/luau-boilerplate"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+# PackageA = LinkA
+
+[server-dependancies]
+# PackageB = LinkB

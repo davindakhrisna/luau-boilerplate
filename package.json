@@ -1,0 +1,25 @@
+{
+	"name": "luau-boilerplate",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "rojo build -o game.rbxl",
+		"serve": "rojo serve",
+		"dev": "pnpm run build && open-cli game.rbxl && pnpm run serve"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devEngines": {
+		"packageManager": {
+			"name": "pnpm",
+			"version": "^11.3.0",
+			"onFail": "download"
+		}
+	},
+	"type": "module",
+	"devDependencies": {
+		"open-cli": "^9.0.0"
+	}
+}
