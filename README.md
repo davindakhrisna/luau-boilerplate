@@ -11,6 +11,8 @@ pnpm i
 pnpm wally
 pnpm dev
 
+pnpm export
+
 rm -rf .git
 ```
 
