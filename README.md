@@ -10,6 +10,8 @@ Please use:
 pnpm i
 pnpm wally
 pnpm dev
+
+rm -rf .git
 ```
 
 Next things to do :
