@@ -8,6 +8,7 @@ Please use:
 
 ```bash
 pnpm i
+pnpm wally
 pnpm dev
 ```
 
@@ -15,4 +16,3 @@ Next things to do :
 
 - Search for every `luau-boilerplate` and rename them
 - To add packages, refer to `wally.toml`
-
