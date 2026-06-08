@@ -7,7 +7,7 @@
 		"build": "rojo build -o game.rbxl",
 		"serve": "rojo serve",
 		"wally": "wally install",
-		"dev": "pnpm run build && pnpm run wally && open-cli game.rbxl && pnpm run serve"
+		"dev": "pnpm run build && open-cli game.rbxl && pnpm run serve"
 	},
 	"keywords": [],
 	"author": "",
