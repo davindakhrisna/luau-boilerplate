@@ -1,0 +1,26 @@
+# Roblox Studio files
+*.rbxl
+*.rbxlx
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Dependencies (Node.js / pnpm)
+node_modules/
+.pnpm-store/
+Packages/
+ServerPackages/
+_Index/
+wally.lock
+
+# Cache Tools
+.aftman/
+.foreman/
+.rokit/
+
+# File Log & OS
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+
+sourcemap.json

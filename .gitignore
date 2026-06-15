@@ -1,29 +1,10 @@
-# Project place file
-/LUAU-Boilerplate.rbxlx
-
-# Roblox Studio lock files
-/*.rbxlx.lock
-/*.rbxl.lock
-*.rbxl
-*.rbxlx
-
-# Dependencies (Node.js / pnpm)
+# Dependencies
 node_modules/
 .pnpm-store/
-Packages/
-ServerPackages/
-_Index/
-wally.lock
 
-# Cache Tools
-.aftman/
-.foreman/
-.rokit/
-
-# File Log & OS
-*.log
+# OS
 .DS_Store
 Thumbs.db
-.vscode/
-
-sourcemap.json
+*.log
+Thumbs.db
+*.log

@@ -1,0 +1,15 @@
+{
+	"name": "luau-app",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"build": "rojo build -o game.rbxl",
+		"serve": "rojo serve",
+		"wally": "wally install",
+		"export": "open-cli game.rbxl",
+		"dev": "pnpm run build && pnpm run serve"
+	},
+	"devDependencies": {
+		"open-cli": "^9.0.0"
+	}
+}
