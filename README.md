@@ -1,27 +1,27 @@
-# create-luau-app
+# @kryisnn/create-luau-app
 
 Scaffold a new Roblox Luau project with [Rojo](https://rojo.space/), [Wally](https://wally.run/), and [Selene](https://kampfkarren.github.io/selene/) — all set up and ready to go.
 
 ## Usage
 
 ```bash
-pnpm create create-luau-app
+pnpm create @kryisnn/luau-app
 ```
 
 Or with a project name:
 
 ```bash
-pnpm create create-luau-app my-game
+pnpm create @kryisnn/luau-app my-game
 ```
 
 You can also use npm or yarn:
 
 ```bash
 # npm
-npm create create-luau-app@latest
+npm create @kryisnn/luau-app@latest
 
 # yarn
-yarn create create-luau-app
+yarn create @kryisnn/luau-app
 ```
 
 ## What You Get

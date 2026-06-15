@@ -1,5 +1,5 @@
 {
-	"name": "create-luau-app",
+	"name": "@kryisnn/create-luau-app",
 	"version": "1.0.0",
 	"description": "Scaffold a new Roblox Luau project with Rojo, Wally, and Selene",
 	"author": "Davinda Khrisna Adyatma",
